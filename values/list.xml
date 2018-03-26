@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>Капитанская дочка</item>
+        <item>Мастер и Маргарита</item>
+        <item>Дети капитана Гранта</item>
+        <item>Над пропастью во ржи</item>
+        <item>Гарри Поттер</item>
+        <item>Дерево лжи</item>
+        <item>Палата №6</item>
+        <item>Алые паруса</item>
+        <item>Анна Каренина</item>
+        <item>Властелин колец</item>
+        <item>Маленький принц</item>
+        <item>Преступление и наказание</item>
+        <item>Мертвые души</item>
+        <item>Горе от ума</item>
+        <item>Собачье сердце</item>
+    </string-array>
+
+</resources>

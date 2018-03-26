@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LessonListView</string>
+    <string name="bu1">4.3.2</string>
+    <string name="bu2">4.3.3</string>
+    <string name="bu4">Практикум</string>
+    <string name="bu3">4.3.4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
